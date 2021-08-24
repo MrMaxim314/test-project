@@ -16,7 +16,7 @@ If everything is fine you will see 'Server is running on http://localhost:5000'
 # GET
 
 Request:
-    htttp://localhost:5000/list
+    http://localhost:5000/list
 Response: All users from DB
 
 # GET
