@@ -6,7 +6,7 @@ This app generates PDF file (first name + last name + image). Example of file yo
 1. You must install MySQL, NodeJS, Postman.
 2. Create testproject DB in Mysql
 3. Clone this project using git clone.
-4. Open your favourite IDE and write in terminal 'npm install'.
+4. Open project in your favourite IDE and write in terminal 'npm install'.
 5. To start app write 'npm run dev'.
 
 If everything is fine you will see 'Server is running on http://localhost:5000'
